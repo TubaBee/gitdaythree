@@ -1,0 +1,13 @@
+
+<<<<<<< Updated upstream
+yenisini kurup durma
+
+=======
+
+My first edit  it
+ 
+ ....
+>>>>>>> Stashed changes
+
+
+Ben anlamadim buraya mi ekledin benim yaptiklarimi
